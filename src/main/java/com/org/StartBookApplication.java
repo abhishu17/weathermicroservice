@@ -15,6 +15,7 @@ public class StartBookApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(StartBookApplication.class, args);
+        
 	}
 
 	// init bean to insert 3 books into h2 database.
